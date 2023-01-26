@@ -32,7 +32,7 @@ All datasets used in this paper are from previous works and the brain network da
 
 As provided in the Appendix of our manuscript, all baselines and their URLs are:
 
-[WWL](https://github.com/BorgwardtLab/WWL).
+[WWL](https://github.com/BorgwardtLab/WWL) (https://github.com/BorgwardtLab/WWL).
 
 [g-U-Nets](https://github.com/HongyangGao/Graph-U-Nets) (https://github.com/HongyangGao/Graph-U-Nets). 
 
