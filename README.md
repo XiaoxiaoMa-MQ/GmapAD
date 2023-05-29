@@ -44,5 +44,10 @@ As provided in the Appendix of our manuscript, all baselines and their URLs are:
     
 [OCGIN](https://github.com/LingxiaoShawn/GLOD-Issues) (https://github.com/LingxiaoShawn/GLOD-Issues).
 
-[OCGLT](https://github.com/boschresearch/GraphLevel-AnomalyDetection) (https://github.com/boschresearch/GraphLevel-AnomalyDetection).
+[OCGTL](https://github.com/boschresearch/GraphLevel-AnomalyDetection) (https://github.com/boschresearch/GraphLevel-AnomalyDetection).
+
+[GLocalKD](https://github.com/RongrongMa/GLocalKD) (https://github.com/RongrongMa/GLocalKD).
+
+[iGAD](https://github.com/graph-level-anomalies/iGAD/tree/main) (https://github.com/graph-level-anomalies/iGAD/tree/main).
+
 
