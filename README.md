@@ -7,7 +7,7 @@
 
 <h1> Towards Graph-level anomaly detection via deep evolutionary mapping </h1>
 
-Open-sourced implementation for KDD2023 Submission - GmapAD.
+Open-sourced implementation for GmapAD - KDD 2023.
 
 GmapAD is a graph-level anomaly detection framework with specially designed explainable graph mapping that maps graphs into a latent space where anomalies can be effectively detected. GmapAD's framework is shown as above.
 
